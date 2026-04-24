@@ -1,0 +1,4 @@
+﻿interface ICanPlayMusic
+{
+    string PlayMusic();
+}
