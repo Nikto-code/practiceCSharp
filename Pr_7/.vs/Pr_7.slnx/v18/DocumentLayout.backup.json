@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54BA255-9145-4D03-A80A-CC98F0B2815D}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_7\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54BA255-9145-4D03-A80A-CC98F0B2815D}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54BA255-9145-4D03-A80A-CC98F0B2815D}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_7\\task2\\listprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54BA255-9145-4D03-A80A-CC98F0B2815D}|task2\\task2.csproj|solutionrelative:task2\\listprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54BA255-9145-4D03-A80A-CC98F0B2815D}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_7\\task2\\collectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54BA255-9145-4D03-A80A-CC98F0B2815D}|task2\\task2.csproj|solutionrelative:task2\\collectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54BA255-9145-4D03-A80A-CC98F0B2815D}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_7\\task2\\collectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54BA255-9145-4D03-A80A-CC98F0B2815D}|task2\\task2.csproj|solutionrelative:task2\\collectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921A9380-2956-4C10-8E38-52249B6060D7}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_7\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921A9380-2956-4C10-8E38-52249B6060D7}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921A9380-2956-4C10-8E38-52249B6060D7}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_7\\task1\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921A9380-2956-4C10-8E38-52249B6060D7}|task1\\task1.csproj|solutionrelative:task1\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921A9380-2956-4C10-8E38-52249B6060D7}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_7\\task1\\outofstockexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921A9380-2956-4C10-8E38-52249B6060D7}|task1\\task1.csproj|solutionrelative:task1\\outofstockexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878D9DDD-909D-43E2-A624-651A869B405C}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_7\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878D9DDD-909D-43E2-A624-651A869B405C}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878D9DDD-909D-43E2-A624-651A869B405C}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_7\\task3\\weakpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878D9DDD-909D-43E2-A624-651A869B405C}|task3\\task3.csproj|solutionrelative:task3\\weakpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878D9DDD-909D-43E2-A624-651A869B405C}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_7\\task3\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878D9DDD-909D-43E2-A624-651A869B405C}|task3\\task3.csproj|solutionrelative:task3\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutOfStockException.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task1\\OutOfStockException.cs",
+              "RelativeDocumentMoniker": "task1\\OutOfStockException.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task1\\OutOfStockException.cs",
+              "RelativeToolTip": "task1\\OutOfStockException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:51:56.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task1\\Warehouse.cs",
+              "RelativeDocumentMoniker": "task1\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task1\\Warehouse.cs",
+              "RelativeToolTip": "task1\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:53:10.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task1\\Program.cs",
+              "RelativeToolTip": "task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:51:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task3\\Program.cs",
+              "RelativeToolTip": "task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:02:57.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollectionException.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task2\\CollectionException.cs",
+              "RelativeDocumentMoniker": "task2\\CollectionException.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task2\\CollectionException.cs",
+              "RelativeToolTip": "task2\\CollectionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:58:11.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task2\\CollectionHandler.cs",
+              "RelativeDocumentMoniker": "task2\\CollectionHandler.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task2\\CollectionHandler.cs",
+              "RelativeToolTip": "task2\\CollectionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:59:13.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task2\\ListProcessor.cs",
+              "RelativeDocumentMoniker": "task2\\ListProcessor.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task2\\ListProcessor.cs",
+              "RelativeToolTip": "task2\\ListProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:57:11.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:56:51.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeakPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task3\\WeakPasswordException.cs",
+              "RelativeDocumentMoniker": "task3\\WeakPasswordException.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task3\\WeakPasswordException.cs",
+              "RelativeToolTip": "task3\\WeakPasswordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:03:55.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task3\\PasswordManager.cs",
+              "RelativeDocumentMoniker": "task3\\PasswordManager.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_7\\task3\\PasswordManager.cs",
+              "RelativeToolTip": "task3\\PasswordManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:04:34.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
