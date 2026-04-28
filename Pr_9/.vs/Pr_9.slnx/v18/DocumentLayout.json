@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D101CA4F-D9D5-430E-85B4-3B6C55DFBC81}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D101CA4F-D9D5-430E-85B4-3B6C55DFBC81}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D101CA4F-D9D5-430E-85B4-3B6C55DFBC81}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task3\\file.data||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D101CA4F-D9D5-430E-85B4-3B6C55DFBC81}|task3\\task3.csproj|solutionrelative:task3\\file.data||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D101CA4F-D9D5-430E-85B4-3B6C55DFBC81}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task3\\sensorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D101CA4F-D9D5-430E-85B4-3B6C55DFBC81}|task3\\task3.csproj|solutionrelative:task3\\sensorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D101CA4F-D9D5-430E-85B4-3B6C55DFBC81}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task3\\sensorfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D101CA4F-D9D5-430E-85B4-3B6C55DFBC81}|task3\\task3.csproj|solutionrelative:task3\\sensorfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D101CA4F-D9D5-430E-85B4-3B6C55DFBC81}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task3\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D101CA4F-D9D5-430E-85B4-3B6C55DFBC81}|task3\\task3.csproj|solutionrelative:task3\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED8381F-CA70-4520-B3AD-0F7C394C273F}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED8381F-CA70-4520-B3AD-0F7C394C273F}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED8381F-CA70-4520-B3AD-0F7C394C273F}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task2\\sensordatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED8381F-CA70-4520-B3AD-0F7C394C273F}|task2\\task2.csproj|solutionrelative:task2\\sensordatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED8381F-CA70-4520-B3AD-0F7C394C273F}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task2\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED8381F-CA70-4520-B3AD-0F7C394C273F}|task2\\task2.csproj|solutionrelative:task2\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EEE71-FD0F-4F6D-8F5A-A8BAF6594758}|task4\\task4.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EEE71-FD0F-4F6D-8F5A-A8BAF6594758}|task4\\task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248EEE71-FD0F-4F6D-8F5A-A8BAF6594758}|task4\\task4.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task4\\filewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248EEE71-FD0F-4F6D-8F5A-A8BAF6594758}|task4\\task4.csproj|solutionrelative:task4\\filewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B62581-00F6-4CFE-AFDF-A12ABFF233C6}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B62581-00F6-4CFE-AFDF-A12ABFF233C6}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B62581-00F6-4CFE-AFDF-A12ABFF233C6}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task1\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B62581-00F6-4CFE-AFDF-A12ABFF233C6}|task1\\task1.csproj|solutionrelative:task1\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B62581-00F6-4CFE-AFDF-A12ABFF233C6}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_9\\task1\\fileinfoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B62581-00F6-4CFE-AFDF-A12ABFF233C6}|task1\\task1.csproj|solutionrelative:task1\\fileinfoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file.data",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task3\\file.data",
+              "RelativeDocumentMoniker": "task3\\file.data",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task3\\file.data",
+              "RelativeToolTip": "task3\\file.data",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-28T07:00:51.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SensorDataWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task2\\SensorDataWriter.cs",
+              "RelativeDocumentMoniker": "task2\\SensorDataWriter.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task2\\SensorDataWriter.cs",
+              "RelativeToolTip": "task2\\SensorDataWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:02:03.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task3\\Program.cs",
+              "RelativeToolTip": "task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:12:30.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task3\\SensorData.cs",
+              "RelativeDocumentMoniker": "task3\\SensorData.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task3\\SensorData.cs",
+              "RelativeToolTip": "task3\\SensorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:13:03.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SensorFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task3\\SensorFileReader.cs",
+              "RelativeDocumentMoniker": "task3\\SensorFileReader.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task3\\SensorFileReader.cs",
+              "RelativeToolTip": "task3\\SensorFileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:13:30.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SensorProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task3\\SensorProcessor.cs",
+              "RelativeDocumentMoniker": "task3\\SensorProcessor.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task3\\SensorProcessor.cs",
+              "RelativeToolTip": "task3\\SensorProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:14:43.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task4\\Program.cs",
+              "RelativeDocumentMoniker": "task4\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task4\\Program.cs",
+              "RelativeToolTip": "task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:16:33.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:00:58.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task2\\SensorData.cs",
+              "RelativeDocumentMoniker": "task2\\SensorData.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task2\\SensorData.cs",
+              "RelativeToolTip": "task2\\SensorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:01:28.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileWatcher.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task4\\FileWatcher.cs",
+              "RelativeDocumentMoniker": "task4\\FileWatcher.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task4\\FileWatcher.cs",
+              "RelativeToolTip": "task4\\FileWatcher.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:16:59.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task1\\Program.cs",
+              "RelativeToolTip": "task1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T05:40:03.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task1\\FileManager.cs",
+              "RelativeDocumentMoniker": "task1\\FileManager.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task1\\FileManager.cs",
+              "RelativeToolTip": "task1\\FileManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T05:44:32.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileInfoProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task1\\FileInfoProvider.cs",
+              "RelativeDocumentMoniker": "task1\\FileInfoProvider.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_9\\task1\\FileInfoProvider.cs",
+              "RelativeToolTip": "task1\\FileInfoProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T05:48:18.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
