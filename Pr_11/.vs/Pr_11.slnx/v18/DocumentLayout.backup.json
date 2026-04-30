@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task2\\airportpickupdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|solutionrelative:task2\\airportpickupdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task2\\basicroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|solutionrelative:task2\\basicroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task2\\breakfastdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|solutionrelative:task2\\breakfastdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task2\\spadecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|solutionrelative:task2\\spadecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task2\\roomservicedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|solutionrelative:task2\\roomservicedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task2\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|solutionrelative:task2\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59B2AB-2699-D06C-146E-A9BEBACA8A51}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59B2AB-2699-D06C-146E-A9BEBACA8A51}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59B2AB-2699-D06C-146E-A9BEBACA8A51}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task1\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59B2AB-2699-D06C-146E-A9BEBACA8A51}|task1\\task1.csproj|solutionrelative:task1\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59B2AB-2699-D06C-146E-A9BEBACA8A51}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task1\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59B2AB-2699-D06C-146E-A9BEBACA8A51}|task1\\task1.csproj|solutionrelative:task1\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59B2AB-2699-D06C-146E-A9BEBACA8A51}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task1\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59B2AB-2699-D06C-146E-A9BEBACA8A51}|task1\\task1.csproj|solutionrelative:task1\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F59B2AB-2699-D06C-146E-A9BEBACA8A51}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task1\\emailfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F59B2AB-2699-D06C-146E-A9BEBACA8A51}|task1\\task1.csproj|solutionrelative:task1\\emailfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task3\\securitypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|task3\\task3.csproj|solutionrelative:task3\\securitypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task3\\activatealarmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|task3\\task3.csproj|solutionrelative:task3\\activatealarmcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task3\\alarmsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|task3\\task3.csproj|solutionrelative:task3\\alarmsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|task3\\task3.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task3\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|task3\\task3.csproj|solutionrelative:task3\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_11\\task2\\task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|task2\\task2.csproj|solutionrelative:task2\\task2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AirportPickupDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\AirportPickupDecorator.cs",
+              "RelativeDocumentMoniker": "task2\\AirportPickupDecorator.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\AirportPickupDecorator.cs",
+              "RelativeToolTip": "task2\\AirportPickupDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:40:41.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\IRoomService.cs",
+              "RelativeDocumentMoniker": "task2\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\IRoomService.cs",
+              "RelativeToolTip": "task2\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:22:21.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomServiceDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\RoomServiceDecorator.cs",
+              "RelativeDocumentMoniker": "task2\\RoomServiceDecorator.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\RoomServiceDecorator.cs",
+              "RelativeToolTip": "task2\\RoomServiceDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:36:24.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpaDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\SpaDecorator.cs",
+              "RelativeDocumentMoniker": "task2\\SpaDecorator.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\SpaDecorator.cs",
+              "RelativeToolTip": "task2\\SpaDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:37:38.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BreakfastDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\BreakfastDecorator.cs",
+              "RelativeDocumentMoniker": "task2\\BreakfastDecorator.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\BreakfastDecorator.cs",
+              "RelativeToolTip": "task2\\BreakfastDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:36:55.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\BasicRoomService.cs",
+              "RelativeDocumentMoniker": "task2\\BasicRoomService.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\BasicRoomService.cs",
+              "RelativeToolTip": "task2\\BasicRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:22:56.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:21:19.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task1\\Program.cs",
+              "RelativeToolTip": "task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:03:50.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task1\\NotificationFactory.cs",
+              "RelativeDocumentMoniker": "task1\\NotificationFactory.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task1\\NotificationFactory.cs",
+              "RelativeToolTip": "task1\\NotificationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:17:07.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task1\\INotification.cs",
+              "RelativeDocumentMoniker": "task1\\INotification.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task1\\INotification.cs",
+              "RelativeToolTip": "task1\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:16:17.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task1\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "task1\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task1\\EmailNotification.cs",
+              "RelativeToolTip": "task1\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:16:42.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task1\\EmailFactory.cs",
+              "RelativeDocumentMoniker": "task1\\EmailFactory.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task1\\EmailFactory.cs",
+              "RelativeToolTip": "task1\\EmailFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:20:45.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlarmSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task3\\AlarmSystem.cs",
+              "RelativeDocumentMoniker": "task3\\AlarmSystem.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task3\\AlarmSystem.cs",
+              "RelativeToolTip": "task3\\AlarmSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:42:59.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task3\\Program.cs",
+              "RelativeToolTip": "task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:42:33.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActivateAlarmCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task3\\ActivateAlarmCommand.cs",
+              "RelativeDocumentMoniker": "task3\\ActivateAlarmCommand.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task3\\ActivateAlarmCommand.cs",
+              "RelativeToolTip": "task3\\ActivateAlarmCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:43:16.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SecurityPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task3\\SecurityPanel.cs",
+              "RelativeDocumentMoniker": "task3\\SecurityPanel.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task3\\SecurityPanel.cs",
+              "RelativeToolTip": "task3\\SecurityPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:45:51.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task3\\ICommand.cs",
+              "RelativeDocumentMoniker": "task3\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task3\\ICommand.cs",
+              "RelativeToolTip": "task3\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:42:43.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "task2.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\task2.csproj",
+              "RelativeDocumentMoniker": "task2\\task2.csproj",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_11\\task2\\task2.csproj",
+              "RelativeToolTip": "task2\\task2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T10:41:07.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
