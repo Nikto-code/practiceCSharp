@@ -1,0 +1,15 @@
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\MainWindow.csproj.AssemblyReference.cache
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\App.g.cs
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\MainWindow_MarkupCompile.cache
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\MainWindow_MarkupCompile.lref
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\bin\Debug\MainWindow.exe.config
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\bin\Debug\MainWindow.exe
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\bin\Debug\MainWindow.pdb
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\MainWindow.baml
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\MainWindow.g.resources
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\MainWindow.Properties.Resources.resources
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\MainWindow.csproj.GenerateResource.cache
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\MainWindow.csproj.CoreCompileInputs.cache
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\MainWindow.exe
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_12\MainWindow\obj\Debug\MainWindow.pdb
