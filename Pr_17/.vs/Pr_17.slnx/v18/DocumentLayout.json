@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\amountcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\amountcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\financeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\financeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|c:\\users\\nikto\\source\\repos\\pr_17\\task1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13FFF99F-7198-4A8B-B7A0-3DCDD0E384EF}|task1\\task1.csproj|solutionrelative:task1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AmountColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\AmountColorConverter.cs",
+              "RelativeDocumentMoniker": "task1\\AmountColorConverter.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\AmountColorConverter.cs",
+              "RelativeToolTip": "task1\\AmountColorConverter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:19:06.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AsyncRelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\AsyncRelayCommand.cs",
+              "RelativeDocumentMoniker": "task1\\AsyncRelayCommand.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\AsyncRelayCommand.cs",
+              "RelativeToolTip": "task1\\AsyncRelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:19:03.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\App.xaml",
+              "RelativeDocumentMoniker": "task1\\App.xaml",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\App.xaml",
+              "RelativeToolTip": "task1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T08:02:02.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "task1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\MainWindow.xaml",
+              "RelativeToolTip": "task1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T07:53:24.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "task1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "task1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:53:20.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "task1\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\LoginViewModel.cs",
+              "RelativeToolTip": "task1\\LoginViewModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:01:53.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "task1\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\MainViewModel.cs",
+              "RelativeToolTip": "task1\\MainViewModel.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAowKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:17:58.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\NotificationService.cs",
+              "RelativeDocumentMoniker": "task1\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\NotificationService.cs",
+              "RelativeToolTip": "task1\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:17:37.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\ChatService.cs",
+              "RelativeDocumentMoniker": "task1\\ChatService.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\ChatService.cs",
+              "RelativeToolTip": "task1\\ChatService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA5wDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:17:08.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "task1\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\RelayCommand.cs",
+              "RelativeToolTip": "task1\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:14:42.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\UserManager.cs",
+              "RelativeDocumentMoniker": "task1\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\UserManager.cs",
+              "RelativeToolTip": "task1\\UserManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:11:42.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinanceService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\FinanceService.cs",
+              "RelativeDocumentMoniker": "task1\\FinanceService.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\FinanceService.cs",
+              "RelativeToolTip": "task1\\FinanceService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:08:19.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "task1",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\task1.csproj",
+              "RelativeDocumentMoniker": "task1\\task1.csproj",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\task1.csproj",
+              "RelativeToolTip": "task1\\task1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-08T08:07:49.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinanceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\FinanceViewModel.cs",
+              "RelativeDocumentMoniker": "task1\\FinanceViewModel.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\FinanceViewModel.cs",
+              "RelativeToolTip": "task1\\FinanceViewModel.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv1EAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:08:13.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\Models.cs",
+              "RelativeDocumentMoniker": "task1\\Models.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\Models.cs",
+              "RelativeToolTip": "task1\\Models.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T08:06:20.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "task1\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Pr_17\\task1\\LoginWindow.xaml",
+              "RelativeToolTip": "task1\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T08:01:54.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

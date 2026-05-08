@@ -1,0 +1,266 @@
+﻿<Window x:Class="task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Финансовый менеджер" Height="650" Width="850"
+        Loaded="MainWindow_Loaded">
+
+    <Window.Resources>
+
+
+        <ControlTemplate x:Key="AddButtonTemplate" TargetType="Button">
+            <Border Background="LightBlue" CornerRadius="10">
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+        </ControlTemplate>
+
+
+        <DataTemplate x:Key="TransactionTemplate">
+            <StackPanel>
+                <TextBlock Text="{Binding Date, StringFormat=dd.MM.yyyy HH:mm}"/>
+                <TextBlock Text="{Binding Category}" FontWeight="Bold"/>
+                <TextBlock Text="{Binding Amount, StringFormat={}{0} руб.}"/>
+            </StackPanel>
+        </DataTemplate>
+
+
+        <Storyboard x:Key="FadeInAnimation">
+            <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                             From="0" To="1" Duration="0:0:0.8">
+                <DoubleAnimation.EasingFunction>
+                    <CubicEase EasingMode="EaseOut"/>
+                </DoubleAnimation.EasingFunction>
+            </DoubleAnimation>
+        </Storyboard>
+
+        <Storyboard x:Key="BudgetWarningAnimation" RepeatBehavior="3x">
+            <ColorAnimation Storyboard.TargetName="BalanceBrush"
+                    Storyboard.TargetProperty="Color"
+                    From="White" To="#FFCCCC"
+                    Duration="0:0:0.4" AutoReverse="True">
+                <ColorAnimation.EasingFunction>
+                    <SineEase EasingMode="EaseInOut"/>
+                </ColorAnimation.EasingFunction>
+            </ColorAnimation>
+        </Storyboard>
+
+        <Storyboard x:Key="ButtonClickAnimation">
+            <DoubleAnimation Storyboard.TargetProperty=
+                                 "RenderTransform.(ScaleTransform.ScaleX)"
+                             From="1" To="0.9" Duration="0:0:0.1"
+                             AutoReverse="True"/>
+            <DoubleAnimation Storyboard.TargetProperty=
+                                 "RenderTransform.(ScaleTransform.ScaleY)"
+                             From="1" To="0.9" Duration="0:0:0.1"
+                             AutoReverse="True"/>
+        </Storyboard>
+
+    </Window.Resources>
+
+    <Window.InputBindings>
+        <KeyBinding Key="N" Modifiers="Control" Command="{Binding AddIncomeCommand}"/>
+        <KeyBinding Key="E" Modifiers="Control" Command="{Binding AddExpenseCommand}"/>
+        <KeyBinding Key="Delete" Command="{Binding DeleteCommand}"/>
+    </Window.InputBindings>
+
+    <DockPanel>
+
+        <!-- Меню -->
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Выход" Click="Exit_Click"/>
+            </MenuItem>
+            <MenuItem Header="Транзакции">
+                <MenuItem Header="Добавить доход (Ctrl+N)" Command="{Binding AddIncomeCommand}"/>
+                <MenuItem Header="Добавить расход (Ctrl+E)" Command="{Binding AddExpenseCommand}"/>
+                <Separator/>
+                <MenuItem Header="Удалить (Del)" Command="{Binding DeleteCommand}"/>
+            </MenuItem>
+            <MenuItem Header="Помощь"/>
+        </Menu>
+
+        <!-- Панель инструментов -->
+        <ToolBar DockPanel.Dock="Top">
+            <Button x:Name="BtnIncome"
+                    Command="{Binding AddIncomeCommand}"
+                    ToolTip="Добавить доход"
+                    Template="{StaticResource AddButtonTemplate}"
+                    Margin="2" Padding="8,4"
+                    Click="AnimateButtonClick"
+                    RenderTransformOrigin="0.5,0.5">
+                <Button.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Button.RenderTransform>
+                <TextBlock Text="Доход"/>
+            </Button>
+
+            <Button x:Name="BtnExpense"
+                    Command="{Binding AddExpenseCommand}"
+                    ToolTip="Добавить расход"
+                    Template="{StaticResource AddButtonTemplate}"
+                    Margin="2" Padding="8,4"
+                    Click="AnimateButtonClick"
+                    RenderTransformOrigin="0.5,0.5">
+                <Button.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Button.RenderTransform>
+                <TextBlock Text="Расход"/>
+            </Button>
+
+            <Separator/>
+            <Button Command="{Binding DeleteCommand}" ToolTip="Удалить выбранное">
+                <TextBlock Text="Удалить"/>
+            </Button>
+            <Separator/>
+            <Button Command="{Binding LoadDataCommand}"
+                    ToolTip="Загрузить данные" Padding="8,4">
+                <TextBlock Text="Загрузить данные"/>
+            </Button>
+            <Separator/>
+            <Button Command="{Binding SendNotificationCommand}" Padding="8,4">
+                <TextBlock Text="Уведомление"/>
+            </Button>
+        </ToolBar>
+
+        <!-- Панель выбора месяца с анимацией перелистывания -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal"
+                    HorizontalAlignment="Center" Margin="0,5">
+
+            <Button Content="◀" Width="30"
+                    Command="{Binding PrevMonthCommand}"
+                    Click="PrevMonth_Click"/>
+
+            <StackPanel x:Name="MonthPanel"
+                        Orientation="Horizontal"
+                        Width="160"
+                        RenderTransformOrigin="0.5,0.5">
+                <StackPanel.RenderTransform>
+                    <TranslateTransform X="0"/>
+                </StackPanel.RenderTransform>
+                <TextBlock Text="{Binding SelectedMonthName}"
+                           FontSize="16" FontWeight="Bold"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                           Width="160" TextAlignment="Center"/>
+            </StackPanel>
+
+            <Button Content="▶" Width="30"
+                    Command="{Binding NextMonthCommand}"
+                    Click="NextMonth_Click"/>
+
+            <TextBlock Text="{Binding CurrentUsername,
+                           StringFormat=' | Пользователь: {0}'}"
+                       VerticalAlignment="Center"
+                       Margin="20,0,0,0" FontStyle="Italic"/>
+            <TextBlock Text="{Binding CurrentUserRole, StringFormat=' [{0}]'}"
+                       VerticalAlignment="Center"
+                       Margin="5,0,0,0" Foreground="Gray"/>
+            <Button Content="Выйти"
+                    Command="{Binding LogoutCommand}"
+                    Margin="20,0,0,0"/>
+        </StackPanel>
+
+        <!-- Основная сетка с Fade In -->
+        <Grid x:Name="MainGrid" Margin="10" Opacity="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="140"/>
+            </Grid.RowDefinitions>
+
+            <!-- 2. ЭФФЕКТ: Border вокруг баланса — пульсирует при перерасходе -->
+            <Border x:Name="BalanceBorder" Grid.Row="0"
+        CornerRadius="5" Padding="5" Margin="0,0,0,10">
+                <Border.Background>
+                    <SolidColorBrush x:Name="BalanceBrush" Color="White"/>
+                </Border.Background>
+                <TextBlock Text="{Binding Balance,
+                   StringFormat=Итоговый баланса: {0} руб.}"
+               FontSize="20" FontWeight="Bold"/>
+            </Border>
+
+            <!-- Индикатор загрузки -->
+            <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,6">
+                <TextBlock Text="Загрузка данных..."
+                           Visibility="{Binding IsLoading,
+                               Converter={StaticResource BoolToVisibilityConverter}}"
+                           Foreground="Gray" FontStyle="Italic"/>
+            </StackPanel>
+
+            <!-- TwoWay: фильтр по дате -->
+            <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,0,0,8">
+                <TextBlock Text="Фильтр по дате:"
+                           VerticalAlignment="Center" Margin="0,0,8,0"/>
+                <DatePicker SelectedDate="{Binding FilterDate, Mode=TwoWay}" Width="160"/>
+                <Button Content="Сбросить"
+                        Command="{Binding ClearFilterCommand}" Margin="8,0,0,0"/>
+            </StackPanel>
+
+            <!-- DataGrid -->
+            <DataGrid Grid.Row="3"
+                      ItemsSource="{Binding FilteredTransactions}"
+                      SelectedItem="{Binding SelectedTransaction}"
+                      AutoGenerateColumns="True" CanUserAddRows="False"/>
+
+            <!-- TwoWay: редактирование суммы -->
+            <StackPanel Grid.Row="4" Orientation="Horizontal" Margin="0,8,0,8">
+                <TextBlock Text="Сумма выбранной операции:"
+                           VerticalAlignment="Center" Margin="0,0,8,0"/>
+                <TextBox Width="120"
+                         Text="{Binding SelectedTransaction.Amount, Mode=TwoWay,
+                                UpdateSourceTrigger=PropertyChanged}"
+                         IsEnabled="{Binding SelectedTransaction,
+                                     Converter={StaticResource NullToBoolConverter}}"/>
+            </StackPanel>
+
+            <!-- 1. АНИМАЦИЯ: График по оси Y с анимацией роста столбцов -->
+            <ItemsControl Grid.Row="5" ItemsSource="{Binding CategorySummaries}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Margin="10,0" VerticalAlignment="Bottom">
+                            <TextBlock Text="{Binding Total, StringFormat={}{0} руб.}"
+                                       HorizontalAlignment="Center" FontSize="10"/>
+                            <Rectangle Width="60"
+                                       Height="{Binding Total,
+                                           Converter={StaticResource AmountToHeightConverter}}"
+                                       Fill="LightBlue" VerticalAlignment="Bottom"
+                                       RenderTransformOrigin="0.5,1">
+                                <Rectangle.RenderTransform>
+                                    <ScaleTransform ScaleY="1"/>
+                                </Rectangle.RenderTransform>
+                                <Rectangle.Triggers>
+                                    <EventTrigger RoutedEvent="Loaded">
+                                        <BeginStoryboard>
+                                            <Storyboard>
+                                                <DoubleAnimation
+                                                    Storyboard.TargetProperty=
+                                                        "RenderTransform.(ScaleTransform.ScaleY)"
+                                                    From="0" To="1" Duration="0:0:0.6">
+                                                    <DoubleAnimation.EasingFunction>
+                                                        <BounceEase Bounces="2"
+                                                                    Bounciness="3"
+                                                                    EasingMode="EaseOut"/>
+                                                    </DoubleAnimation.EasingFunction>
+                                                </DoubleAnimation>
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                </Rectangle.Triggers>
+                            </Rectangle>
+                            <TextBlock Text="{Binding Category}"
+                                       HorizontalAlignment="Center" FontSize="11"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+
+        </Grid>
+    </DockPanel>
+</Window>
