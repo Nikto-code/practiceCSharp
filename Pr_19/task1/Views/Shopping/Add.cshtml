@@ -1,0 +1,20 @@
+﻿@model task1.Models.ShoppingItem
+
+@{
+    ViewBag.Title = "Добавить товар";
+}
+
+<h2>Добавить товар</h2>
+
+<form method="post" action="@Url.Action("Add", "Shopping")">
+    <p>
+        Название: <input type="text" name="Name" />
+    </p>
+    <p>
+        Количество: <input type="number" name="Quantity" value="1" min="1" />
+    </p>
+    <button type="submit">Добавить</button>
+</form>
+
+<br />
+<a href="@Url.Action("Index", "Shopping")">← Назад к списку</a>
