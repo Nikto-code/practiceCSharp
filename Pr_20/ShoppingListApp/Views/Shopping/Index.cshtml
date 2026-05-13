@@ -1,0 +1,93 @@
+﻿@model List<task1.Models.ShoppingItem>
+
+@{
+    ViewBag.Title = "Список покупок";
+}
+
+<h2>Список покупок</h2>
+
+@if (ViewBag.Message != null)
+{
+    <div style="color: red; font-weight: bold;">
+        ⚠ @ViewBag.Message
+    </div>
+}
+
+<a href="@Url.Action("Add", "Shopping")">+ Добавить товар</a>
+<hr />
+
+<h3>🛒 Нужно купить</h3>
+
+@{
+    var notBought = Model.Where(i => !i.Bought).ToList();
+}
+
+@if (notBought.Count == 0)
+{
+    <p>Все товары куплены!</p>
+}
+else
+{
+    <table border="1" cellpadding="6">
+        <tr>
+            <th>Название</th>
+            <th>Количество</th>
+            <th>Действия</th>
+        </tr>
+        @foreach (var item in notBought)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Quantity</td>
+                <td>
+                    <a href="@Url.Action("Mark", "Shopping", new { id = item.Id })">
+                         Куплено
+                    </a>
+                    |
+                    <a href="@Url.Action("Delete", "Shopping", new { id = item.Id })">
+                         Удалить
+                    </a>
+                </td>
+            </tr>
+        }
+    </table>
+}
+
+<hr />
+
+<h3> Куплено</h3>
+
+@{
+    var bought = Model.Where(i => i.Bought).ToList();
+}
+
+@if (bought.Count == 0)
+{
+    <p>Пока ничего не куплено.</p>
+}
+else
+{
+    <table border="1" cellpadding="6">
+        <tr>
+            <th>Название</th>
+            <th>Количество</th>
+            <th>Действия</th>
+        </tr>
+        @foreach (var item in bought)
+        {
+            <tr>
+                <td><s>@item.Name</s></td>
+                <td>@item.Quantity</td>
+                <td>
+                    <a href="@Url.Action("Mark", "Shopping", new { id = item.Id })">
+                        Вернуть
+                    </a>
+                    |
+                    <a href="@Url.Action("Delete", "Shopping", new { id = item.Id })">
+                        Удалить
+                    </a>
+                </td>
+            </tr>
+        }
+    </table>
+}
