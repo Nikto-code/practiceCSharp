@@ -1,0 +1,32 @@
+﻿@model task1.Models.ShoppingItem
+
+@{
+    ViewBag.Title = "Добавить товар";
+}
+
+<h2>Добавить товар</h2>
+
+<form asp-action="Create" asp-controller="Shopping" method="post">
+
+    <div>
+        <label asp-for="Name">Название:</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" style="color:red;"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Quantity">Количество:</label>
+        <input asp-for="Quantity" type="number" min="1" max="100" />
+        <span asp-validation-for="Quantity" style="color:red;"></span>
+    </div>
+
+    <br />
+
+    <button type="submit">Добавить</button>
+
+</form>
+
+<br />
+<a asp-action="Index" asp-controller="Shopping">← Назад к списку</a>
