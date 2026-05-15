@@ -19,7 +19,6 @@ namespace task1.Controllers
             var items = await _shoppingService.GetAllAsync();
             if (TempData["Message"] != null)
                 ViewBag.Message = TempData["Message"];
-
             return View(items);
         }
 
@@ -49,9 +48,7 @@ namespace task1.Controllers
         public async Task<IActionResult> Delete(int id)
         {
             await _shoppingService.DeleteAsync(id);
-
             TempData["Message"] = "Товар удалён";
-
             return RedirectToAction(nameof(Index));
         }
     }

@@ -3,52 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\views\\shopping\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\views\\shopping\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\services\\shoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\services\\shoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\views\\shopping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\views\\shopping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\views\\shopping\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\views\\shopping\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\views\\shopping\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\views\\shopping\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\views\\shopping\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\views\\shopping\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\controllers\\shoppingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\models\\shoppingitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\models\\shoppingitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\services\\shoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\services\\shoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\models\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\models\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\services\\ishoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\services\\ishoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\views\\shopping\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\views\\shopping\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\shoppinglistapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\shoppinglistapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\models\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12A99B6A-0A82-41CC-9C7B-7CE0462477AA}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\models\\shoppingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\views\\shopping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\views\\shopping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\services\\ishoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\services\\ishoppingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\shoppinglistapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\shoppinglistapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|c:\\users\\nikto\\source\\repos\\practika_csharp\\pr_21\\shoppinglistapp\\views\\shopping\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACCA983-8B13-2322-9CD4-91C34E0AA5FF}|ShoppingListApp\\ShoppingListApp.csproj|solutionrelative:shoppinglistapp\\views\\shopping\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +82,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Program.cs",
+              "RelativeToolTip": "ShoppingListApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T20:30:47.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingItem.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Models\\ShoppingItem.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Models\\ShoppingItem.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Models\\ShoppingItem.cs",
+              "RelativeToolTip": "ShoppingListApp\\Models\\ShoppingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T20:36:32.062Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shopping\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Views\\Shopping\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shopping\\Create.cshtml",
+              "RelativeToolTip": "ShoppingListApp\\Views\\Shopping\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T20:42:03.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shopping\\Add.cshtml",
               "RelativeDocumentMoniker": "ShoppingListApp\\Views\\Shopping\\Add.cshtml",
@@ -70,12 +130,168 @@
               "RelativeToolTip": "ShoppingListApp\\Views\\Shopping\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-14T20:42:39.306Z",
+              "WhenOpened": "2026-05-14T20:42:39.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Models\\ShoppingItemViewModel.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Models\\ShoppingItemViewModel.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Models\\ShoppingItemViewModel.cs",
+              "RelativeToolTip": "ShoppingListApp\\Models\\ShoppingItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T20:47:10.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Controllers\\ShoppingController.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Controllers\\ShoppingController.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Controllers\\ShoppingController.cs",
+              "RelativeToolTip": "ShoppingListApp\\Controllers\\ShoppingController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T20:39:17.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Services\\ShoppingService.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Services\\ShoppingService.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Services\\ShoppingService.cs",
+              "RelativeToolTip": "ShoppingListApp\\Services\\ShoppingService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T20:36:22.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ShoppingListApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T20:37:49.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ShoppingListApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T08:32:06.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoppingListApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\appsettings.json",
+              "RelativeToolTip": "ShoppingListApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-14T20:38:04.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ShoppingListApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T08:32:04.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IShoppingService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Services\\IShoppingService.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Services\\IShoppingService.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Services\\IShoppingService.cs",
+              "RelativeToolTip": "ShoppingListApp\\Services\\IShoppingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T20:38:40.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shopping\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Views\\Shopping\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shopping\\Index.cshtml",
+              "RelativeToolTip": "ShoppingListApp\\Views\\Shopping\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T20:39:59.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ShoppingListApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:31:01.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShoppingListApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:30:31.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShoppingListApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\ShoppingListApp.csproj",
+              "RelativeDocumentMoniker": "ShoppingListApp\\ShoppingListApp.csproj",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\ShoppingListApp.csproj",
+              "RelativeToolTip": "ShoppingListApp\\ShoppingListApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T20:31:22.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShoppingListApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShoppingListApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T07:21:32.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shopping\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "ShoppingListApp\\Views\\Shopping\\Create.cshtml.cs",
@@ -83,138 +299,7 @@
               "RelativeToolTip": "ShoppingListApp\\Views\\Shopping\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T20:42:26.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shopping\\Create.cshtml",
-              "RelativeDocumentMoniker": "ShoppingListApp\\Views\\Shopping\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shopping\\Create.cshtml*",
-              "RelativeToolTip": "ShoppingListApp\\Views\\Shopping\\Create.cshtml*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-14T20:42:03.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shopping\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShoppingListApp\\Views\\Shopping\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Views\\Shopping\\Index.cshtml*",
-              "RelativeToolTip": "ShoppingListApp\\Views\\Shopping\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-14T20:39:59.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShoppingController.cs",
-              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Controllers\\ShoppingController.cs",
-              "RelativeDocumentMoniker": "ShoppingListApp\\Controllers\\ShoppingController.cs",
-              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Controllers\\ShoppingController.cs*",
-              "RelativeToolTip": "ShoppingListApp\\Controllers\\ShoppingController.cs*",
-              "ViewState": "AgIAADIAAAAAAAAAAAAswAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T20:39:17.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShoppingService.cs",
-              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Services\\ShoppingService.cs",
-              "RelativeDocumentMoniker": "ShoppingListApp\\Services\\ShoppingService.cs",
-              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Services\\ShoppingService.cs*",
-              "RelativeToolTip": "ShoppingListApp\\Services\\ShoppingService.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T20:36:22.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IShoppingService.cs",
-              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Services\\IShoppingService.cs",
-              "RelativeDocumentMoniker": "ShoppingListApp\\Services\\IShoppingService.cs",
-              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Services\\IShoppingService.cs*",
-              "RelativeToolTip": "ShoppingListApp\\Services\\IShoppingService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T20:38:40.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\appsettings.json",
-              "RelativeDocumentMoniker": "ShoppingListApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\appsettings.json*",
-              "RelativeToolTip": "ShoppingListApp\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-14T20:38:04.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ShoppingListApp\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Data\\AppDbContext.cs*",
-              "RelativeToolTip": "ShoppingListApp\\Data\\AppDbContext.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T20:37:49.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ShoppingItem.cs",
-              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Models\\ShoppingItem.cs",
-              "RelativeDocumentMoniker": "ShoppingListApp\\Models\\ShoppingItem.cs",
-              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Models\\ShoppingItem.cs*",
-              "RelativeToolTip": "ShoppingListApp\\Models\\ShoppingItem.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T20:36:32.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ShoppingListApp",
-              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\ShoppingListApp.csproj",
-              "RelativeDocumentMoniker": "ShoppingListApp\\ShoppingListApp.csproj",
-              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\ShoppingListApp.csproj*",
-              "RelativeToolTip": "ShoppingListApp\\ShoppingListApp.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-14T20:31:22.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Program.cs",
-              "RelativeDocumentMoniker": "ShoppingListApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Nikto\\source\\repos\\Practika_csharp\\Pr_21\\ShoppingListApp\\Program.cs*",
-              "RelativeToolTip": "ShoppingListApp\\Program.cs*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T20:30:47.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T20:42:26.442Z"
             }
           ]
         }

@@ -16,8 +16,8 @@
 <a asp-action="Create" asp-controller="Shopping">+ Добавить товар</a>
 <hr />
 
-<!-- Не куплено -->
-<h3>🛒 Нужно купить</h3>
+
+<h3> Нужно купить</h3>
 
 @{
     var notBought = Model.Where(i => !i.IsBought).ToList();
@@ -54,7 +54,6 @@ else
 }
 
 <hr />
-
 
 <h3> Куплено</h3>
 

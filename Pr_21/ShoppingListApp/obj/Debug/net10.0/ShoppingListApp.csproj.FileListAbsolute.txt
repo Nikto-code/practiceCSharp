@@ -190,10 +190,11 @@ C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net1
 C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net10.0\Shopping.7AC1BA92.Up2Date
 C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net10.0\ShoppingListApp.dll
 C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net10.0\refint\ShoppingListApp.dll
 C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net10.0\ShoppingListApp.pdb
 C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net10.0\ShoppingListApp.genruntimeconfig.cache
 C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net10.0\ref\ShoppingListApp.dll
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\bin\Debug\net10.0\dotnet-tools.json
+C:\Users\Nikto\source\repos\Practika_csharp\Pr_21\ShoppingListApp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
