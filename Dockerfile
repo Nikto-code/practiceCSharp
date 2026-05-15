@@ -6,8 +6,6 @@ EXPOSE 8080
 FROM mcr.microsoft.com/dotnet/sdk:10.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-
-# Указываем полный путь от корня репозитория
 COPY ["Pr_21/ShoppingListApp/ShoppingListApp.csproj", "Pr_21/ShoppingListApp/"]
 RUN dotnet restore "Pr_21/ShoppingListApp/ShoppingListApp.csproj"
 COPY . .
